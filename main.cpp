@@ -8,7 +8,7 @@
 #include "Menus/MenuBar.h"
 #include "FileItem.h"
 #include "HistoryHandling/History.h"
-#include "TypeRacer.h"
+#include "TypeTest_Components/TypeRacer.h"
 
 
 

@@ -5,15 +5,15 @@
 #ifndef TEXTINPUT_PROJECT_TYPERACER_H
 #define TEXTINPUT_PROJECT_TYPERACER_H
 
-#include "Interfaces/GUIComponentAdapter.h"
+#include "../Interfaces/GUIComponentAdapter.h"
 #include "WordList.h"
-#include "Menus/DropdownMenu.h"
-#include "Menus/MenuBar.h"
-#include "TextInput/Box.h"
-#include "TextInput/Label.h"
+#include "../Menus/DropdownMenu.h"
+#include "../Menus/MenuBar.h"
+#include "../TextInput/Box.h"
+#include "../TextInput/Label.h"
 #include "Timer.h"
 #include "Wpm.h"
-#include "Static_Classes/KeyboardShortcut.h"
+#include "../Static_Classes/KeyboardShortcut.h"
 
 class TypeRacer : public GUIComponentAdapter{
 private:

@@ -5,8 +5,8 @@
 #ifndef TEXTINPUT_PROJECT_TIMER_H
 #define TEXTINPUT_PROJECT_TIMER_H
 
-#include "Interfaces/GUIComponentAdapter.h"
-#include "TextInput/Label.h"
+#include "../Interfaces/GUIComponentAdapter.h"
+#include "../TextInput/Label.h"
 
 /*
  *

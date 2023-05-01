@@ -5,8 +5,8 @@
 #ifndef TEXTINPUT_PROJECT_WPM_H
 #define TEXTINPUT_PROJECT_WPM_H
 
-#include "Interfaces/GUIComponentAdapter.h"
-#include "TextInput/Label.h"
+#include "../Interfaces/GUIComponentAdapter.h"
+#include "../TextInput/Label.h"
 #include <iostream>
 
 /* Will Calculate WPM on a 1second interval */

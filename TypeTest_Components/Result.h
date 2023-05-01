@@ -5,8 +5,8 @@
 #ifndef TEXTINPUT_PROJECT_RESULT_H
 #define TEXTINPUT_PROJECT_RESULT_H
 
-#include "Interfaces/GUIComponentAdapter.h"
-#include "TextInput/Label.h"
+#include "../Interfaces/GUIComponentAdapter.h"
+#include "../TextInput/Label.h"
 
 class Result : public GUIComponentAdapter{
 private:

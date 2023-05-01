@@ -6,17 +6,17 @@
 #define TEXTINPUT_PROJECT_WORDLIST_H
 
 #include <SFML/Graphics.hpp>
-#include "Interfaces/GUIComponentAdapter.h"
-#include "TextInput/MultiText.h"
-#include "TextInput/Cursor.h"
-#include "TextInput/Box.h"
+#include "../Interfaces/GUIComponentAdapter.h"
+#include "../TextInput/MultiText.h"
+#include "../TextInput/Cursor.h"
+#include "../TextInput/Box.h"
 
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
 #include <sstream>
-#include "TextInput/MultiText.h"
-#include "Static_Classes/MouseEvent.h"
+#include "../TextInput/MultiText.h"
+#include "../Static_Classes/MouseEvent.h"
 
 /* GuiComponent for the list of words and box around it */
 class WordList : public GUIComponentAdapter{
